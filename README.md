@@ -1,6 +1,15 @@
 # Quadratic Equations Solver
 
-[TODO. There will be project description]
+Pre-commit hook realization
+
+
+# How to use
+
+Copy pre-commit file to ./git/hooks/
+
+Make it executable ```chmod +x ./git/hooks/pre-commit```
+
+If tests get error, changes won't be commited.
 
 # Project Goals
 
